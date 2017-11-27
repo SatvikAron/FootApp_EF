@@ -10,6 +10,8 @@ namespace FootApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Heloo");
+            Console.ReadLine();
         }
     }
 }
